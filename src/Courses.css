@@ -1,0 +1,25 @@
+.course_item {
+    padding: 15px;
+    
+}
+
+.course_img img{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.course_top{
+    color: orange;
+}
+.enroll a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: rgb(37, 34, 34);
+}
+
+.lesson, .students, .rating{
+    font-size: 0.9rem;
+    color: rgb(37, 34, 34);
+    font-weight: 500;
+}
